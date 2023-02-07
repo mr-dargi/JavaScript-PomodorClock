@@ -10,7 +10,7 @@
 <div>
 <h1>Monitor View</h1>
 <img src="./monitorView.png" alt="MonitorView"
-style="width: 700px; height: 200px;">
+style="width: 95vw; height: 350px;">
 </div>
 <div>
 <h1>Mobile View</h1>
