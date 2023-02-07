@@ -7,6 +7,7 @@
 html, body {
     color: #088b8b;
     height: 100%;
+    overflow: none;
 }
 
 
@@ -75,7 +76,7 @@ timer-conatiner
     z-index: 8;
     color: white;
     position: absolute;
-    top: 15vh;
+    top: 100px;
 }
 
 .timer {
@@ -92,7 +93,7 @@ input-conatiner
     flex-direction: column;
     z-index: 9;
     position: absolute;
-    top: 55vh;
+    top: 215px;
 }
 
 .input-container label {
@@ -111,7 +112,7 @@ button-conatiner
 -------------------- */
 .button-container {
     position: absolute;
-    top: 68vh;
+    top: 300px;
     z-index: 10;
 }
 
